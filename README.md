@@ -10,3 +10,8 @@ https://tailwindui.com/components
 
 - Tailwind CSS Docs
 - https://tailwindcss.com/docs/installation
+
+# Find Me
+https://www.linkedin.com/in/steven-hofheins/
+https://medium.com/@steven_creates
+https://github.com/StevenCreates
