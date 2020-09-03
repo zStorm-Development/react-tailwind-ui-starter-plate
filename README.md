@@ -1,4 +1,4 @@
-## React + TailSindCss + TailWindUI
+## React + TailWindCss + TailWindUI
 
 # Simple to get started
 - Clone Repo
