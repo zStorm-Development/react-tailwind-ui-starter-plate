@@ -1,8 +1,8 @@
 ## React + TailSindCss + TailWindUI
 
 # Simple to get started
--Clone Repo
--Npm Start
+- Clone Repo
+- Npm Start
 
 # Resources
 - Tailwind UI
