@@ -2,6 +2,7 @@
 
 # Simple to get started
 - Clone Repo
+- Npm i
 - Npm Start
 
 # Resources
